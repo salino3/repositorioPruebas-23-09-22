@@ -1,0 +1,17 @@
+https://github.com/salino3/project-react-useContext-14-09-22.git
+
+ (EN DESARROLLO) useContext, useReducer, typescript, Router
+
+
+
+
+https://github.com/salino3/ejercicios-repaso-layout-useparams-19-08-22.git
+
+utilizando enrutadores, rutas dinamicas, useParams, layout para los formularios,
+ validaciones de formulario, typescript
+
+
+
+https://github.com/salino3/todo-app-context-typescript-28-08-22.git
+
+useContext con typescript

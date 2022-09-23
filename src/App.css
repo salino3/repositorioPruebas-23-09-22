@@ -1,0 +1,150 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/*  ****  */
+
+body{
+  background: lightgreen;
+}
+/* FirstPage */
+.divForm{
+
+  border: solid 1px black;
+  width: 20em;
+  
+ border-radius: 20%; 
+ background: blue;
+  
+ margin-left: 2em;
+ /* margin-bottom: 20em; */
+ float: left;
+    margin-top: 5em;
+
+
+}
+
+.divForm input {
+  margin: 1em;
+}
+.divSidebar{
+  border: solid 1px black;
+
+  width: 20em;
+  height: 35em;
+  float: right;
+  background: #FB5607;
+  margin-bottom: 20em;
+}
+
+.divSidebar li{
+    border: solid 1px black;
+
+  margin: 2em;
+
+}
+.divFirst{
+  width: 15em;
+  margin: 0 auto;
+}
+
+
+.divBig{
+
+    margin-top: 5em;
+  display: inline-block;
+
+}
+
+.enlinea{
+  display: inline-block;
+  margin: 6em;
+  
+  margin-top: unset;
+  margin-bottom: unset;
+ 
+ }
+
+/* StartPage */
+
+.h3Login{
+    margin-top:3em;
+    color:tomato;
+}
+.formStartPage{
+  margin: 0 auto ;
+  padding:2em;
+  /* padding-bottom:5em; */
+  border: solid 3px blue;
+ border-radius: 20%; 
+  width: 30em;
+  height: 30em;
+
+}
+.formStartPage input{
+  margin-bottom: 1em;
+  padding-left:0.5em;
+background:tomato;
+color: blue;
+}
+.formStartPage input::placeholder{
+color: pink;
+}
+label{
+  color: blue;
+}
+
+.btnStartPage{
+     position: absolute;
+ transform: translate(-45%, +40%);
+
+}
+
+/* PageAnimations */
+.effect{
+  float: left;
+  }
+
+.effectCar1{
+margin-left: 10em;
+}
+
+.h1Animations{
+  color:#06D6A0;
+  font-size: 300%
+
+}

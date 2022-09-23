@@ -1,0 +1,38 @@
+
+
+.NF{
+    color: tomato;
+    margin: 3em;
+  font-size: 350%;
+}
+
+/* NavBar */
+.mynav{
+margin-left: 2em;
+ align-items: center;
+
+}
+.mynav li{
+  display: block;
+   padding: 0.5em;
+}
+
+.NavButton{
+  margin-right: 3em;
+  padding: 0.5em 2em;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
